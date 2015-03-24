@@ -12,7 +12,7 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{C807DA26-35A3-4641-986C-37DBCBAF9AFB}</ProjectGuid>
-    <RootNamespace>snakebite</RootNamespace>
+    <RootNamespace>snake-bites</RootNamespace>
     <ProjectName>snake-bites</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />

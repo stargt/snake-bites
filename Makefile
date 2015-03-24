@@ -1,4 +1,4 @@
 make:
-	cc snakebite.cpp -o snakebite -lncurses
+	cc snake-bites.cpp -o snake-bites -lncurses
 clean:
-	rm snakebite
+	rm snake-bites

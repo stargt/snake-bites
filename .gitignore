@@ -263,3 +263,11 @@ FakesAssemblies/
 
 # Debug files
 *.dSYM/
+
+
+# Excludes
+snake-bites
+
+# Includes
+!lib/pdcurses.lib
+!pdcurses.dll
