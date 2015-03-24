@@ -21,7 +21,7 @@ This is a simple console game as well known as Snake Bites. It runs on Mac OS X,
 > 1. Do compile and run.
 
 * For Mac OS X
-> 1. Make sure your `ncurses` library has installed on your Mac.
+> 1. Make sure `ncurses` library has installed on your Mac.
 > 1. Run `make` at root of the project directory on terminal.
 > 1. Run a command `./snake-bites` at the same terminal.
 
